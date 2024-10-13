@@ -1,0 +1,70 @@
+{
+    "app_projects" : [
+        {
+            "project_name": "Chatogram",
+            "language": "Flutter with Dart",
+            "img": "https://i.pinimg.com/564x/e2/2d/92/e22d927b206fcd05e10ea7eba767de2f.jpg",
+            "links": "https://github.com/muzzuaspira7/chit_chat"
+        },
+
+        {
+            "project_name": "LuxelLineUp",
+            "language": "Flutter with Dart",
+            "img": "https://i.pinimg.com/564x/a3/01/ae/a301aeccec87559b399829abd91b3d6e.jpg",
+            "links": "https://github.com/muzzuaspira7/luxel_lineup"
+        },
+
+        {
+            "project_name": "Travel Planner",
+            "language": "Flutter with Dart",
+            "img": "https://i.pinimg.com/564x/65/27/56/652756c088fe6e0b3530b032472d8b5a.jpg",
+            "links": "https://github.com/muzzuaspira7/travel_planner_app"
+        },
+
+        {
+            "project_name": "Task Manager",
+            "language": "Flutter with Dart",
+            "img": "https://i.pinimg.com/564x/27/42/e3/2742e3e7bc6b83a60edbfa5107232876.jpg",
+            "links": "https://github.com/muzzuaspira7/task_manager"
+        }    
+    ],
+
+    "web_projects" : [
+        {
+            "project_name": "Chops and Hops",
+            "language": "Html, Css, Javascript",
+            "img": "https://i.pinimg.com/564x/70/6d/bb/706dbb112cde17af72d733cc4332a847.jpg",
+            "links": "https://github.com/muzzuaspira7/Restaurant",
+            "live" : "https://chops-and-hops.netlify.app"
+        },
+
+        {
+            "project_name": "Weather App",
+            "language": "Html, Css, Javascript",
+            "img": "https://i.pinimg.com/564x/e1/33/fc/e133fca33ef30ff373387f9f97158d76.jpg",
+            "links": "https://github.com/muzzuaspira7/Weather-App",
+            "live" : "https://myweatherapk.netlify.app/"
+
+        },
+
+        {
+            "project_name": "Quiz App",
+            "language": "Html, Css, Javascript",
+            "img": "https://i.pinimg.com/564x/ad/7b/33/ad7b33bef271210d746bd26172c4177e.jpg",
+            "links": "https://github.com/muzzuaspira7/Quiz-Project",
+            "live" : "https://quizappmuzzu.netlify.app/"
+
+        },
+
+        {
+            "project_name": "UpTown Motors",
+            "language": "Html, Css, Bootstrap",
+            "img": "https://i.pinimg.com/564x/1f/ed/00/1fed003abdd04600746679950eadd43f.jpg",
+            "links": "https://github.com/muzzuaspira7/Uptown-Motor-works",
+            "live" : "https://app.netlify.com/sites/uptown-motorworks/overview"
+        }    
+    ]
+
+
+
+}
